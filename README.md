@@ -1,2 +1,2 @@
-# ml_projects
+# Aim
 machine learning projects in practice
